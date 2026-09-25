@@ -14,11 +14,11 @@ I'm a self-taught software engineer, game and web dev from <img src="./assets/fr
 
 ## <img src="./assets/star.gif" width="26" alt="✦"> *currently making*
 
-A website inspired by [Speedrun.com](https://www.speedrun.com "See Speedrun.com")
+a website inspired by [Speedrun.com](https://www.speedrun.com "See Speedrun.com")
 which hosts speedruns for Polytoria games, with contests and competitions that
-would grant free rewards...
+would grant free rewards and-
 
-The networking and backend side of things on an unannounced game
+the networking and backend side of things on an unannounced game
 engine project...
 
 <img src="./assets/divider.svg" width="100%">
