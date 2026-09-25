@@ -1,0 +1,23 @@
+<svg
+  width="900"
+  height="24"
+  viewBox="0 0 900 24"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <linearGradient id="line">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect
+    x="100"
+    y="11"
+    width="700"
+    height="2"
+    rx="1"
+    fill="url(#line)"
+  />
+</svg>
