@@ -1,7 +1,5 @@
 <img src="./assets/header.png" height=160 alt="Header">
 
-<br>
-
 # <img src="./assets/star.gif" width="32" alt="✦"> *yuexin*
 
 hi hi, I'm yuexin!
