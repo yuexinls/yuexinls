@@ -2,24 +2,23 @@
 
 # <img src="./assets/star.gif" width="32" alt="✦"> *yuexin*
 
-hi hi, I'm yuexin!
+hi hi, i'm yuexin!
 
-I'm a self-taught software engineer, game and web dev from <img src="./assets/fr-flag.svg" width="18" alt="France"> france!
+i'm a self-taught software engineer, game and web dev from <img src="./assets/fr-flag.svg" width="18" alt="France"> france!
 
-[![GitHub](https://img.shields.io/badge/GitHub-181020?style=flat&logo=github&logoColor=EC4899)](https://github.com/yuexinls)
-[![Discord](https://img.shields.io/badge/Discord-181020?style=flat&logo=discord&logoColor=8B5CF6)](https://discord.com/users/920371675437084692)
-[![Twitter](https://img.shields.io/badge/X-181020?style=flat&logo=x&logoColor=F472B6)](https://x.com/yuexinls)
+### *my socials*
+
+- [![GitHub](https://img.shields.io/badge/GitHub-181020?style=flat&logo=github&logoColor=EC4899)](https://github.com/yuexinls)
+- [![Discord](https://img.shields.io/badge/Discord-181020?style=flat&logo=discord&logoColor=8B5CF6)](https://discord.com/users/920371675437084692)
+- [![Twitter](https://img.shields.io/badge/X-181020?style=flat&logo=x&logoColor=F472B6)](https://x.com/yuexinls)
 
 <img src="./assets/divider.svg" width="100%">
 
 ## <img src="./assets/star.gif" width="26" alt="✦"> *currently making*
 
-a website inspired by [Speedrun.com](https://www.speedrun.com "See Speedrun.com")
-which hosts speedruns for Polytoria games, with contests and competitions that
-would grant free rewards and-
+- <img src="./assets/speedtoria.svg" width="13"> **Speedtoria** - [Speedrun.com](https://www.speedrun.com "See Speedrun.com") inspired website for Polytoria games
 
-the networking and backend side of things on an unannounced game
-engine project...
+- <img src="./assets/polytoria.svg" width="12"> **Polytoria 2.1** - The networking and backend side of things for [**Polytoria**](https://www.speedrun.com "See Polytoria's Repo")'s new massive refactor
 
 <img src="./assets/divider.svg" width="100%">
 
