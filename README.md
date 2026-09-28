@@ -18,7 +18,7 @@ i'm a self-taught software engineer, game and web dev from <img src="./assets/fr
 
 - <img src="./assets/speedtoria.svg" width="13"> **Speedtoria** - [Speedrun.com](https://www.speedrun.com "See Speedrun.com") inspired website for Polytoria games
 
-- <img src="./assets/polytoria.svg" width="12"> **Polytoria 2.1** - The networking and backend side of things for [**Polytoria**](https://www.speedrun.com "See Polytoria's Repo")'s new massive refactor
+- <img src="./assets/polytoria.svg" width="12"> **Polytoria 2.1** - The networking and backend side of things for [**Polytoria**](https://github.com/Polytoria/polytoria-game "See Polytoria's Repo")'s new massive refactor
 
 <img src="./assets/divider.svg" width="100%">
 
